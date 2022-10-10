@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![Screenshot 2022-10-10 at 10 48 16 PM](https://user-images.githubusercontent.com/90383172/194941964-802e0e68-696e-444c-82e8-9946475d62c2.jpg)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
