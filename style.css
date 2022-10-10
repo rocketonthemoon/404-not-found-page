@@ -1,0 +1,30 @@
+/* font for header */
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@800&display=swap');
+
+/* font for other things */
+
+
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    max-width: 1440px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    margin: 20px;
+}
+
+header {
+    width: 100%;
+}
+
+header nav {
+    color: #333333;
+    text-transform: uppercase;
+    font-family: 'Inconsolata', monospace;
+}
