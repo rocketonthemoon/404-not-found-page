@@ -2,8 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@700&display=swap');
 
 /* font for other things */
-
-
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap');
 
 * {
     padding: 0;
@@ -19,12 +18,68 @@ body {
     margin: 20px;
 }
 
+/* header section */
+
 header {
     width: 100%;
 }
 
 header nav {
+    font-size: 24px;
+    margin: 40px 0 0 77px;
     color: #333333;
     text-transform: uppercase;
     font-family: 'Inconsolata', monospace;
+}
+
+/* main content */
+
+main {
+    margin: 100px auto;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    gap: 40px;
+    font-family: 'Space Mono', monospace;
+}
+
+main .scarecrow {
+    width: 100%;
+    min-width: 50%;
+}
+
+main .scarecrow img {
+    width: 100%;
+}
+
+main .content {
+    display: flex;
+    flex-direction: column;
+    gap: 80px;
+}
+
+main .content h1 {
+    font-size: 64px;
+    font-weight: 700;
+}
+
+main .content p {
+    font-size: 24px;
+    color: #4f4f4f;
+    width: 70%;
+    font-weight: 400;
+}
+
+main .content a {
+    display: block;
+    height: 80px;
+    width: 250px;
+    color: #ffffff;
+    background-color: #333333;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 14px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
