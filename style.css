@@ -94,8 +94,47 @@ footer {
     text-align: center;
     font-family: 'Montserrat', sans-serif;
     color: #bdbdbd;
+    font-size: 14px;
 }
 
 footer a {
     color: #bdbdbd;
+}
+
+/* responsive media queries */
+
+@media (max-width: 767px) {
+
+    /* main content is showing upon rows */
+
+    main {
+        display: grid;
+        grid-template-columns: 100%;
+        gap: 40px;
+        font-family: 'Space Mono', monospace;
+    }
+
+    /* header is moving little bit to the left */
+
+    header nav {
+        margin: 40px 0 0 20px;
+    }
+
+    /* changing the size of main content text */
+
+    main .content h1 {
+        font-size: 48px;
+    }
+    
+    main .content p {
+        font-size: 18px;
+        width: 90%;
+    }
+
+    /* changing the gap between main content items */
+
+    main .content {
+        gap: 60px;
+    }
+
 }
