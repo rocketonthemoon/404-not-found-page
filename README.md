@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://your-demo-link.your-domain">
+    <a href="https://https://www.figma.com/file/QeKWLNhB13zDjJzqR22TKE/404-page-challenge?node-id=1%3A4">
       Demo
     </a>
     <span> | </span>
-    <a href="https://your-url-to-the-solution">
+    <a href="https://404notfoundpages.netlify.app">
       Solution
     </a>
     <span> | </span>
@@ -40,9 +40,9 @@
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- You can see the demo on the netlify site <!-- ! blah blah --> 
+- You can see the demo on the netlify site https://404notfoundpages.netlify.app
 - I am a student studying at vilnius university and i've been learning web dev for like around one year
-- I improved my understanding about all the responsive design field
+- I improved my understanding about the oversall responsive design concept
 - To Dare Is To Do !!
 
 ### Built With
